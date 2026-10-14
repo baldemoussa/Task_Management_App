@@ -1,6 +1,6 @@
 # SBA 4: Task Management App
 
-## By Mamadou Moussa Balde
+## By [Mamadou Moussa Balde](https://www.linkedin.com/in/2mb/)
 
 This is a single page, `index.html`, that stores a task list in the browser. There is no server and no install step. Bootstrap 5.3 and the GFS Didot font load from the internet, so the page needs a network connection. Open `index.html` in a browser.
 
